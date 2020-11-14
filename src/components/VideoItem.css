@@ -1,0 +1,15 @@
+.video-item {
+  display: flex !important;
+  /* align-items: center !important; */
+  cursor: pointer;
+}
+
+.video-item img {
+  max-width: 168px !important;
+  /* margin-bottom: 10px !important; */
+}
+
+h4 {
+  font-size: 14px !important;
+  margin-left: 5px !important;
+}
