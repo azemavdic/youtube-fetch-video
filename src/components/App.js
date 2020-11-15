@@ -14,7 +14,7 @@ const App = () => {
 
   return (
     <div className="ui container">
-      <h1>Selam Alejkum! Ovo je napravljeno samo za malu Farah...</h1>
+      <h1>Farah, šta želiš gledati ?</h1>
       <SearchBar onFormSubmit={search} />
       <div className="ui grid">
         <div className="ui row">
